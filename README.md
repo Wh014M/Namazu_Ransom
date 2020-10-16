@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/n0obit4/Namazu_Ransom"><img src="https://raw.githubusercontent.com/n0obit4/Fuzzpy/master/Logo.png" alt="Namazu Ransom Logo" border="0" width="180"></a>
+  <a href="https://github.com/n0obit4/Namazu_Ransom"><img src="" alt="Namazu Ransom Logo" border="0" width="180"></a>
   <br>
   Namazu Ransom
   <br>
@@ -29,15 +29,15 @@ If you want encrypt all personal files into a linux system, you only need chanhe
 
 ## Cryptor demostration
 
-![Before encryption]()
+![Before encryption](https://raw.githubusercontent.com/n0obit4/Namazu_Ransom/main/Demostration/before.png)
 
 This is a content of the file before encrypt, is a plaintext and the md5 for the same to check later.
 
-![After encryption]()
+![After encryption](https://raw.githubusercontent.com/n0obit4/Namazu_Ransom/main/Demostration/after.png)
 
 This is the content of the file after execute the crypter.py, let’s view the encrypted content and the md5 for the same after the == simbols.
 
 ## Decryptor demostration
-![File in plaintext]()
+![File in plaintext](https://raw.githubusercontent.com/n0obit4/Namazu_Ransom/main/Demostration/decrypt.png)
 
 This is the same file after execute the decrypt program. it go to the original status.
