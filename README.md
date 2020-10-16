@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/n0obit4/Namazu_Ransom"><img src="https://raw.githubusercontent.com/n0obit4/Namazu_Ransom/main/Namazu_logo.png?token=AJY45ASS6CXP4DCIXNJABYK7RIJXW" alt="Namazu Ransom Logo" border="0" width="180"></a>
+  <a href="https://github.com/n0obit4/Namazu_Ransom"><img src="https://raw.githubusercontent.com/n0obit4/Namazu_Ransom/main/Namazu_logo.png" alt="Namazu Ransom Logo" border="0" width="180"></a>
   <br>
   Namazu Ransom
   <br>
