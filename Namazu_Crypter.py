@@ -18,7 +18,7 @@ class Ransomware:
 
 	def load_key(self):
 		'''
-		Cargar llave de encriptacion
+		Load encryption key
 		'''
 		return open('kick.key', 'rb').read()
 
