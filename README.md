@@ -28,3 +28,16 @@ To encrypt data do you need specify the key generate by the crypter.
 If you want encrypt all personal files into a linux system, you only need chanhe the folder un the **rw.encrypt_files()** by a **/home**.
 
 ## Cryptor demostration
+
+![Before encryption]()
+
+This is a content of the file before encrypt, is a plaintext and the md5 for the same to check later.
+
+![After encryption]()
+
+This is the content of the file after execute the crypter.py, let’s view the encrypted content and the md5 for the same after the == simbols.
+
+## Decryptor demostration
+![File in plaintext]()
+
+This is the same file after execute the decrypt program. it go to the original status.
